@@ -1,6 +1,5 @@
 import "./App.css";
 import React, { useRef } from "react";
-import logo from "./Images/logo.png";
 import h795 from "./Images/h795.png";
 import h97 from "./Images/h97.png";
 import h310 from "./Images/h310.png";
